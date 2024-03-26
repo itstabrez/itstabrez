@@ -3,8 +3,8 @@
 - 👀 Currently, I'm diving deep into the world of DSA, sharpening my problem-solving skills, and mastering algorithms to tackle real-world challenges.
 - 📚 I'm fascinated by the elegance of efficient algorithms and love the thrill of cracking tough coding problems.
 - 💞️ looking to collaborate on enthralling projects.
-- Happy coding! 💻✨
 - 📫 you can reach me through my mail id :- tabrezamrath@gmail.com
+- Happy coding! 💻✨
 
 <!---
 itstabrez/itstabrez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
