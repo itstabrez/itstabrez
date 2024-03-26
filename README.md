@@ -1,8 +1,9 @@
 ![Creative Studio Name LinkedIn Article Cover Image](https://github.com/itstabrez/itstabrez/assets/104494563/147b81aa-4e97-49ac-acdd-6fc73e9438c5)
 - 👋 Hi, I’m @Mohammad Tabrez Alam
-- 👀 Interested in doing something innovative and exploring something new and guess what, coding is the way.
-- 🌱 Currently learning DSA using C++ and Web Development
-- 💞️ looking to collaborate on enthralling project to solve real life problems.
+- 👀 Currently, I'm diving deep into the world of DSA, sharpening my problem-solving skills, and mastering algorithms to tackle real-world challenges.
+- 📚 I'm fascinated by the elegance of efficient algorithms and love the thrill of cracking tough coding problems.
+- 💞️ looking to collaborate on enthralling projects.
+- Happy coding! 💻✨
 - 📫 you can reach me through my mail id :- tabrezamrath@gmail.com
 
 <!---
