@@ -3,7 +3,7 @@
 - 👀 Currently, I'm diving deep into the world of DSA, sharpening my problem-solving skills, and mastering algorithms to tackle real-world challenges.
 - 🌐 Proficient in HTML, CSS, JavaScript, and various web development libraries and frameworks including React, and Bootstrap.
 - 💞️ looking to collaborate on enthralling projects.
-- 📫 you can reach me through my mail id :- tabrezamrath@gmail.com
+- 📫 you can reach me through my mail id :- tabrezamrath@gmail.com.
 - Happy coding! 💻✨💻✨
 
 <!---
