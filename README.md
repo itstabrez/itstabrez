@@ -4,7 +4,7 @@
 - 🌐 Proficient in HTML, CSS, JavaScript, and various web development libraries and frameworks including React and Tailwind.
 - 💞️ looking to collaborate on enthralling projects.
 - 📫 you can reach me through my mail id :- tabrezamrath@gmail.com.
-- Happy coding! 💻💫❤️
+- Happy coding! 💻💫
 
 <!---
 itstabrez/itstabrez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
