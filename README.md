@@ -6,7 +6,7 @@
 
 ## Glad to see you here! &nbsp; !
 
-I am a full-stack software engineer. I love programming, reading, writing and speaking.
+I am a full-stack software engineer. I love programming, reading, writing.
 
 I am a versatile developer with a strong foundation in HTML, CSS, JavaScript and React, complemented by burgeoning skills in Flutter for mobile app development. My journey in the tech world began with web development, where I honed my ability to create responsive and visually appealing web interfaces. This background has instilled in me a keen eye for design and usability, which I now extend to mobile applications.
 
