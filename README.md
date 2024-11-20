@@ -14,7 +14,7 @@ I am a versatile developer with a strong foundation in HTML, CSS, JavaScript and
 
 ### Talking about Personal Stuff:
 
-- 👨‍🎓 I'm a **Flutter Developer**
+- 👨‍🎓 I'm a **Software Engineer**
 - 🔭 I’m currently working at MintWays Technologies as a Software Developer.
 - 💬 Ask me about anything, I am happy to help
 - ✍ I'm a **Programmer , Engineer , Video Editor , Content Creator** 
