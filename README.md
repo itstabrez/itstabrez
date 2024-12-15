@@ -5,8 +5,6 @@
 <a href="https://leetcode.com/u/itstabrez/" target="_blank"><img align="center" src="assets/leet-code.svg" alt="tabrez-alam" height="30" width="40" /></a>
 &nbsp;
 
-<img align="center" alt="PNG" src="assets/cover.png" width="700" height="300" />
-
 <img align="center" alt="PNG" src="assets/header.png" width="2000" height="200" />
 
 ## Glad to see you here! &nbsp; !
@@ -69,5 +67,6 @@ I am a versatile developer with a strong foundation in HTML, CSS, JavaScript and
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
+<img align="center" alt="PNG" src="assets/cover.png" width="700" height="360" />
 
 ---
