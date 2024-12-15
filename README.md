@@ -37,7 +37,7 @@ I am a versatile developer with a strong foundation in HTML, CSS, JavaScript and
 
 ## 🛠️ My Favourite tools
 
-<img align="center" alt="PNG" src="assets/cover.png" width="400" height="60" />
+<img align="right" alt="PNG" src="assets/cover.png" width="500" height="160" />
 
 ### 👨‍💻 Programming languages
 
