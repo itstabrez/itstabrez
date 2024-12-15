@@ -5,9 +5,9 @@
 <a href="https://leetcode.com/u/itstabrez/" target="_blank"><img align="center" src="assets/leet-code.svg" alt="tabrez-alam" height="30" width="40" /></a>
 &nbsp;
 
-<img align="center" alt="PNG" src="assets/cover.png" width="722" height="360" />
+<img align="center" alt="PNG" src="assets/cover.png" width="700" height="300" />
 
-<img align="center" alt="PNG" src="assets/header.png" width="2000" height="400" />
+<img align="center" alt="PNG" src="assets/header.png" width="2000" height="200" />
 
 ## Glad to see you here! &nbsp; !
 
