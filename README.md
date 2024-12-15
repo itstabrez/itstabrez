@@ -35,8 +35,9 @@ I am a versatile developer with a strong foundation in HTML, CSS, JavaScript and
 
 ---
 
-<div>
 ## 🛠️ My Favourite tools
+
+<img align="center" alt="PNG" src="assets/cover.png" width="700" height="360" />
 
 ### 👨‍💻 Programming languages
 
@@ -68,8 +69,5 @@ I am a versatile developer with a strong foundation in HTML, CSS, JavaScript and
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
-<div><img align="center" alt="PNG" src="assets/cover.png" width="500" height="200" />
-</div>
-</div>
 
 ---
