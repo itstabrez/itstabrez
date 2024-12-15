@@ -1,8 +1,13 @@
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello!+I'm+Mohammad+Tabrez+Alam)](https://git.io/typing-svg)<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+My+Name+Is+Mohammad+Tabrez+Alam)](https://git.io/typing-svg) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
-
-<a href="https://www.linkedin.com/in/mohammad-tabrez-alam-65a551208/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aswin-barath" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mohammad-tabrez-alam-65a551208/" target="_blank"><img align="center" src="assets/linkedin.svg" alt="tabrez-alam" height="30" width="40" /></a>
 &nbsp;
+<a href="https://leetcode.com/u/itstabrez/" target="_blank"><img align="center" src="assets/leet-code.svg" alt="tabrez-alam" height="30" width="40" /></a>
+&nbsp;
+
+<img align="center" alt="PNG" src="assets/cover.png" width="722" height="360" />
+
+<img align="center" alt="PNG" src="assets/header.png" width="2000" height="400" />
 
 ## Glad to see you here! &nbsp; !
 
@@ -10,24 +15,24 @@ I am a full-stack software engineer. I love programming, reading, writing, speak
 
 I am a versatile developer with a strong foundation in HTML, CSS, JavaScript and React, complemented by burgeoning skills in Flutter for mobile app development. My journey in the tech world began with web development, where I honed my ability to create responsive and visually appealing web interfaces. This background has instilled in me a keen eye for design and usability, which I now extend to mobile applications.
 
-<img align="right" alt="GIF" src="https://github.com/AswinBarath/AswinBarath/blob/master/coding.gif?raw=true" width="408" height="318" />
+<img align="right" alt="GIF" src="assets/coding.gif" width="408" height="318" />
 
 ### Talking about Personal Stuff:
 
 - 👨‍🎓 I'm a **Software Engineer**
-- 🔭 I’m currently working at MintWays Technologies as a Software Developer.
+- 🔭 I’m currently working at MintWays Technologies as a Software Engineer.
 - 💬 Ask me about anything, I am happy to help
-- ✍ I'm a **Programmer , Engineer , Video Editor , Content Creator** 
-- 🌱 I'm currently learning:
-  - Data Structures and Algorithms.
+- ✍ I'm a **Programmer , Engineer , Gamer , Video Editor , Content Creator**
+- 🌱 I'm currently honing my expertise in:
+  - Data Structures and Algorithms, alongside advanced full stack development.
 - 👯 Connect with me if you're a tech enthusiast.
 - 📬 How to reach me: [tabrezamrath@gmail.com](mailto:tabrezamrath@gmail.com)
 - 💪 This is where I write, code and solve problems:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/itstabrez" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="AswinBarath" height="30" width="40" /></a>
+<a href="https://github.com/itstabrez" target="_blank"><img align="center" src="assets/github.svg" alt="TabrezAlam" height="30" width="40" /></a>
 &nbsp;
-<a href="https://leetcode.com/u/itstabrez/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aswin26barath" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/itstabrez/" target="_blank"><img align="center" src="assets/leet-code.svg" alt="aswin26barath" height="30" width="40" /></a>
 &nbsp;
 
 ---
@@ -66,5 +71,3 @@ I am a versatile developer with a strong foundation in HTML, CSS, JavaScript and
 </p>
 
 ---
-
-
