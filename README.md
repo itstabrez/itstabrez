@@ -1,76 +1,89 @@
 # ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello!+I'm+Mohammad+Tabrez+Alam)<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-<a href="https://www.linkedin.com/in/mohammad-tabrez-alam-65a551208/" target="_blank"><img align="center" src="assets/linkedin.svg" alt="tabrez-alam" height="30" width="40" /></a>
-&nbsp;
-<a href="https://leetcode.com/u/itstabrez/" target="_blank"><img align="center" src="assets/leet-code.svg" alt="tabrez-alam" height="30" width="40" /></a>
-&nbsp;
+Mohammad Tabrez Alam
+Full Stack Engineer | Mobile & Backend Specialist
+<p align="left"> <a href="https://www.linkedin.com/in/mohammad-tabrez-alam-65a551208/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Mohammad%20Tabrez%20Alam-0A66C2?logo=linkedin&logoColor=white" /> </a> <a href="https://leetcode.com/u/itstabrez/" target="_blank"> <img src="https://img.shields.io/badge/LeetCode-Problem%20Solver-FFA116?logo=leetcode&logoColor=black" /> </a> <a href="mailto:tabrezamrath@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact-D14836?logo=gmail&logoColor=white" /> </a> </p>
+About Me
 
-<img align="center" alt="PNG" src="assets/header.png" width="2000" height="200" />
+I’m a Full Stack Software Engineer with hands-on experience building scalable, production-grade mobile and web applications.
 
-## Glad to see you here! &nbsp; !
+Currently working on:
 
-I am a full-stack software engineer. I love programming, reading, writing, speaking.
+Enterprise-level React & React Native systems
 
-I am a versatile developer with a strong foundation in HTML, CSS, JavaScript and React, complemented by burgeoning skills in Flutter for mobile app development. My journey in the tech world began with web development, where I honed my ability to create responsive and visually appealing web interfaces. This background has instilled in me a keen eye for design and usability, which I now extend to mobile applications.
+Scalable backend APIs using Node.js & Express
 
-<img align="right" alt="GIF" src="assets/coding.gif" width="408" height="318" />
+Real-time messaging & FCM-based notification workflows
 
-### Talking about Personal Stuff:
+Performance optimization in complex UI systems
 
-- 👨‍🎓 I'm a **Software Engineer**
-- 🔭 I’m currently working at MintWays Technologies as a Software Engineer.
-- 💬 Ask me about anything, I am happy to help
-- ✍ I'm a **Programmer , Engineer , Gamer , Video Editor , Content Creator**
-- 🌱 I'm currently honing my expertise in:
-  - Data Structures and Algorithms, alongside advanced full stack development.
-- 👯 Connect with me if you're a tech enthusiast.
-- 📬 How to reach me: [tabrezamrath@gmail.com](mailto:tabrezamrath@gmail.com)
-- 💪 This is where I write, code and solve problems:
+I build systems — not just features.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/itstabrez" target="_blank"><img align="center" src="assets/github.svg" alt="TabrezAlam" height="30" width="40" /></a>
-&nbsp;
-<a href="https://leetcode.com/u/itstabrez/" target="_blank"><img align="center" src="assets/leet-code.svg" alt="aswin26barath" height="30" width="40" /></a>
-&nbsp;
+Core Expertise
 
----
+Frontend
 
-## 🛠️ My Favourite tools
+React.js
 
-<img align="right" alt="PNG" src="assets/cover.png" width="500" height="220" />
+React Native
 
-### 👨‍💻 Programming languages
+Flutter
 
-<p>
-    <a href="#"><img alt="Java" src="https://custom-icon-badges.herokuapp.com/badge/Java-03599C?logo=java-in-hexagon&logoColor=white"></a>
-    <a href="#"><img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
-    <a href="#"><img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"></a>
-    <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
-    <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
-    <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
-    <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
+TypeScript
 
-</p>
+Advanced State Management (Redux Toolkit, Context Optimization)
 
-### 🧰 Frameworks and libraries
+Backend
 
-<p>
-    <a href="#"><img alt="SpringBoot" src="https://img.shields.io/badge/SpringBoot-20232a.svg?logo=springboot&logoColor=%6DB33F"></a>
-    <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-20232a.svg?logo=node.js&logoColor=215732"></a>
-    <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
-    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
-    <a href="#"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white/size=auto"></a>
-    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
-</p>
+Node.js
 
-### 💻 Software and tools
+Express.js
 
-<p>
-    <a href="#"><img alt="GitLab" src="https://img.shields.io/badge/GitLab-white.svg?logo=gitlab&logoColor=E24329"></a>
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-    <a href="#"><img alt="Brave" src="https://img.shields.io/badge/-Brave-FB542B?logo=brave&logoColor=white"></a>
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
-</p>
+REST APIs
 
+Authentication & Role-based systems
+
+WebSockets / Real-time systems
+
+Database
+
+Microsoft SQL Server
+
+MongoDB
+
+Query Optimization & Schema Design
+
+Mobile Systems
+
+Push Notifications (FCM)
+
+Multi-role Healthcare & Enterprise Apps
+
+Production release management
+
+Tech Stack
+<p> <img src="https://custom-icon-badges.herokuapp.com/badge/Java-03599C?logo=java-in-hexagon&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/React-20232a?logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/React%20Native-20232a?logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Express-404d59?logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white"/> </p>
+🚀 Engineering Highlights
+
+Designed multi-role healthcare platform with appointment lifecycle & notification engine
+
+Implemented 7 AM automated FCM medication reminder system
+
+Optimized heavy React components with memoization & controlled side-effects
+
+Built real-time chat modules using socket architecture
+
+Improved performance in infinite-scroll data rendering systems
+
+📊 GitHub Analytics (Animated)
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=itstabrez&show_icons=true&theme=tokyonight&hide_border=true" height="160"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=itstabrez&theme=tokyonight&hide_border=true" height="160"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itstabrez&layout=compact&theme=tokyonight&hide_border=true"/> </p>
+📌 Current Focus
+
+System Design & Scalable Architecture
+
+Advanced DSA & Problem Solving
+
+Building SaaS-grade systems
+
+Performance Engineering
 ---
