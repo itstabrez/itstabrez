@@ -11,7 +11,7 @@ I specialize in:
 
 📱 Cross-platform mobile apps (Flutter & React Native)
 
-🌐 Full-stack web applications (React + Node.js)
+🌐 Full-stack web applications (React + Java SpringBoot + Node.js)
 
 ⚙️ Backend systems & REST APIs (Express, SQL Server, MongoDB)
 
